@@ -307,3 +307,50 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000315?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000444?AuthInfo=xxx&userid=
 #EXTINF:-1 ,陕西卫视 高清
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000445?AuthInfo=xxx&userid=
+#EXTINF:-1 group-title="F1" tvg-name="Sky Sports F1 UK",Sky Sports F1 UK
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/98783
+#EXTINF:-1 group-title="F1" tvg-name="F1 TV",F1 TV
+https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg12058-c15medianetworkslimitedfast-formula1tv-lgus/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d88b3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a51e4f9d2b44b6d640d4821ab882c95a9f15866bf9409bc6edda8643d0d29966af06ba305f025617f1817d80875ab2ca881b51f61713613a65d49ec980245087435012faeac5bb69fa1acafb4beb0c0c9a30a870a605a44f862c9abb0dcac2badb510f3da1d2526222adeaa48ff74743d708c086cceb5a5fbcc9395763ec41e5785152fbfccf07cac01a83b83797ad1b7652a9aa66b4a89cb7dd89b010ec4facc6f08b734b5e116268e2668baa50816ab717a9ca006f5b4954bf995aca95dc5024103fecee65f3372b8be4a8acf13d1ee4542600a90ab75a017f8230696aec2efc973d678c5465ef5806df7d03a961d98701d48cfed85c4bdfb8c646ec21fab478b49c6692581d6458cb98415e415f33d4e16802246ac649e8a1ad8b123224c2c4f0a4b2395f063d041c058de39517f1ebfb003b37fc09650a1b1113854ad779cf135d0f3ccc0bc1a07b04ef681a0cd697006e6e43a4ed84b3abeb9005df11d2cbee772e2b4975b821162f61ddc4e23390036a4e4a62b62a56709428747fb0eaa38898847d808977ba2a6b0262c6e9652f633e485639a4a05afe68c3b02484c1b136a7ee89010b842cb30f1193d5ae009287bae67f3faf84763442aa8966af1d2cc3049a2f8dc479dbb5411f0c393227a8e36fdb7a8ff6b9e214ae159d6a3e249112d09de7a0986f50e6855323367b397d15695f0a2d87eeec542546b6f84d8a5ce2f81bbd4346343a53df86722aec9a4c28bd0759459181efb48ce62f3ffd4bd048931d69ca56093dafc83dfc8ab1f6f3831d396ab28d8f698d88aba4f3ffee1b247906579ac54c1b7bd93282eb6d84963151dbb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235f926c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a157e7f3d5b1ca5bfc11573123955e54f2e3ab6751e554ccfbf3/10/1920x1080_5287612/index.m3u8
+
+# ===== 世界杯自动更新开始 =====
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="世界杯专用 · 注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="世界杯专用 · 普通频道",cctv5
+http://82.156.243.185:36888/av3a/cctv5n.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="世界杯专用 · 普通频道",cctv5p
+http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="世界杯专用 · 普通频道",cctv16
+http://82.156.243.185:36888/av3a/cctv16n.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="世界杯专用 · 普通频道",cctv4k
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="世界杯专用 · 普通频道",cctv8k
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="世界杯专用 · AV3A频道",cctv5-av3a
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="世界杯专用 · AV3A频道",cctv5p-av3a
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="世界杯专用 · AV3A频道",cctv16-av3a
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="世界杯专用 · AV3A频道",cctv4k-av3a
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="世界杯专用 · AV3A频道",cctv8k-av3a
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-name="Catar v. Suiza" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Catar v. Suiza_2026-06-14 02:40:00_1781376000000
+https://cdn.99998888.cc/event/d7a8572e-ccf3-38fd-8b64-dcf58f221009?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Brasil v. Marruecos" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Brasil v. Marruecos_2026-06-14 05:10:00_1781385000000
+https://cdn.99998888.cc/event/de2cfe5e-04ba-3a05-bed7-aa773925ffa0?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Haití v. Escocia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Haití v. Escocia_2026-06-14 08:10:00_1781395800000
+https://cdn.99998888.cc/event/ec834533-c5b3-3bc8-bb32-93d79249051d?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Australia v. Turquía" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Australia v. Turquía_2026-06-14 11:10:00_1781406600000
+https://cdn.99998888.cc/event/f582845b-3f4c-387f-90a2-4be7d6867f27?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Alemania v. Curazao" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Alemania v. Curazao_2026-06-15 00:40:00_1781455200000
+https://cdn.99998888.cc/event/454d5625-16c9-3f00-9452-79a617875491?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Países Bajos v. Japón" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Países Bajos v. Japón_2026-06-15 03:10:00_1781464200000
+https://cdn.99998888.cc/event/73137d0b-2121-3af9-8557-fdad58694d6a?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Costa de Marfil v. Ecuador" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Costa de Marfil v. Ecuador_2026-06-15 06:10:00_1781475000000
+https://cdn.99998888.cc/event/5540fe98-7814-3a12-a02a-5031e5c6c5c2?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Suecia v. Túnez" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Suecia v. Túnez_2026-06-15 09:10:00_1781485800000
+https://cdn.99998888.cc/event/12806ee8-ac96-35b3-918f-8b3201caad10?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="España v. Cabo Verde" group-title="世界杯专用 · 4K杜比视界世界杯正赛",España v. Cabo Verde_2026-06-15 23:40:00_1781538000000
+https://cdn.99998888.cc/event/4d7027ee-e1f2-3fbf-98c8-2673e5300fb0?prefix=https://cdn.99998888.cc
+# ===== 世界杯自动更新结束 =====
