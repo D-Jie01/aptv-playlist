@@ -387,4 +387,6 @@ http://82.156.243.185:34567/replay/4460920
 http://82.156.243.185:34567/replay/4460959
 #EXTINF:-1 tvg-name="世界杯4K回放-伊朗vs新西兰" tvg-logo="https://growth-img.xhscdn.com/ditto/104000n032190g6ihms04746ihg" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-伊朗vs新西兰
 http://82.156.243.185:34567/replay/4460956
+#EXTINF:-1 tvg-name="世界杯4K回放-法国vs塞内加尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190gbogmu0m9ip3a5i000000000046gpr2so" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-法国vs塞内加尔
+http://82.156.243.185:34567/replay/4460926
 # ===== 世界杯自动更新结束 =====
