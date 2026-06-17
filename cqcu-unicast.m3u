@@ -337,6 +337,8 @@ http://82.156.243.185:52521/live/965337701.flv
 http://82.156.243.185:52521/live/965337987.flv
 #EXTINF:-1 tvg-name="乌兹别克斯坦 vs 哥伦比亚_2026-06-18 09:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",乌兹别克斯坦 vs 哥伦比亚_2026-06-18 09:30:00
 http://82.156.243.185:52521/live/965338150.flv
+#EXTINF:-1 tvg-name="捷克 vs 南非_2026-06-18 23:00:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",捷克 vs 南非_2026-06-18 23:00:00
+http://82.156.243.185:52521/live/965451106.flv
 #EXTINF:-1 tvg-name="Francia v. Senegal" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Francia v. Senegal_2026-06-17 02:40:00_1781635200000
 https://cdn.99998888.cc/event/f080f3a3-e506-3fa2-9459-85e7c1e6a63b?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Irak v. Noruega" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Irak v. Noruega_2026-06-17 05:10:00_1781644200000
@@ -389,4 +391,8 @@ http://82.156.243.185:34567/replay/4460959
 http://82.156.243.185:34567/replay/4460956
 #EXTINF:-1 tvg-name="世界杯4K回放-法国vs塞内加尔" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190gbogmu0m9ip3a5i000000000046gpr2so" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-法国vs塞内加尔
 http://82.156.243.185:34567/replay/4460926
+#EXTINF:-1 tvg-name="世界杯4K回放-伊拉克vs挪威" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190ghrqms069ip3a5i0000000000466fih1s" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-伊拉克vs挪威
+http://82.156.243.185:34567/replay/4460967
+#EXTINF:-1 tvg-name="世界杯4K回放-阿根廷vs阿尔及利亚" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190gmvvmu069ip3a5i000000000044cmvrv8" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-阿根廷vs阿尔及利亚
+http://82.156.243.185:34567/replay/4460929
 # ===== 世界杯自动更新结束 =====
