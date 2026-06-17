@@ -379,20 +379,20 @@ http://82.156.243.185:34567/xhs/4460967
 http://82.156.243.185:34567/xhs/4460929
 #EXTINF:-1 tvg-name="世界杯4K回放-奥地利vs约旦_2026-06-17 11:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190grg372069ip3a5i000000000045qemu96" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-奥地利vs约旦_2026-06-17 11:30:00
 http://82.156.243.185:34567/xhs/4460970
-#EXTINF:-1 tvg-name="体育_2026-06-18 00:30:00" tvg-logo="https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320tdb1h4700g49pgc319gnmv7k8qth0?imageView2/2/w/120/format/jpg" group-title="世界杯专用 · 4K世界杯多解说直播",体育_2026-06-18 00:30:00
-http://82.156.243.185:34567/xhs/4460932?roomid=570324031767471961
-#EXTINF:-1 tvg-name="解说2_2026-06-18 00:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4tdl370069dq4phqg0000000003hgdmvao" group-title="世界杯专用 · 4K世界杯多解说直播",解说2_2026-06-18 00:30:00
-http://82.156.243.185:34567/xhs/4460932?roomid=7652360857976505566
-#EXTINF:-1 tvg-name="解说3_2026-06-18 00:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4to216s069dq4phqg0000000003i4po6co" group-title="世界杯专用 · 4K世界杯多解说直播",解说3_2026-06-18 00:30:00
-http://82.156.243.185:34567/xhs/4460932?roomid=7652360857975039028
-#EXTINF:-1 tvg-name="解说4_2026-06-18 00:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4u3896s069dq4phqg0000000003jd2qp6m" group-title="世界杯专用 · 4K世界杯多解说直播",解说4_2026-06-18 00:30:00
-http://82.156.243.185:34567/xhs/4460932?roomid=7652360857878272179
-#EXTINF:-1 tvg-name="解说5_2026-06-18 00:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4uesnn2069dq4phqg0000000003j8p0ie8" group-title="世界杯专用 · 4K世界杯多解说直播",解说5_2026-06-18 00:30:00
-http://82.156.243.185:34567/xhs/4460932?roomid=7652360857849178379
-#EXTINF:-1 tvg-name="解说6_2026-06-18 00:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4uosbn4069dq4phqg0000000003kve8u8q" group-title="世界杯专用 · 4K世界杯多解说直播",解说6_2026-06-18 00:30:00
-http://82.156.243.185:34567/xhs/4460932?roomid=7652360857878272180
-#EXTINF:-1 tvg-name="英格兰VS克罗地亚_2026-06-18 03:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190hbd074769ip3a5i000000000042nif3f8" group-title="世界杯专用 · 4K世界杯多解说未开播",英格兰VS克罗地亚_2026-06-18 03:30:00
-http://82.156.243.185:34567/xhs/4460935
+#EXTINF:-1 tvg-name="葡萄牙VS刚果民主共和国_2026-06-18 00:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190h676n2069ip3a5i000000000047ufq9uu" group-title="世界杯专用 · 4K世界杯多解说未开播",葡萄牙VS刚果民主共和国_2026-06-18 00:30:00
+http://82.156.243.185:34567/xhs/4460932
+#EXTINF:-1 tvg-name="体育_2026-06-18 03:30:00" tvg-logo="https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo320tdb1h4700g49pgc319gnmv7k8qth0?imageView2/2/w/120/format/jpg" group-title="世界杯专用 · 4K世界杯多解说直播",体育_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935?roomid=570324212964365364
+#EXTINF:-1 tvg-name="解说2_2026-06-18 03:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321he7rpa6s069dq4hlqg0000000002q9h1i1c" group-title="世界杯专用 · 4K世界杯多解说直播",解说2_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935?roomid=7652360857976505566
+#EXTINF:-1 tvg-name="解说3_2026-06-18 03:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4to216s069dq4phqg0000000003i4po6co" group-title="世界杯专用 · 4K世界杯多解说直播",解说3_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935?roomid=7652360857975039028
+#EXTINF:-1 tvg-name="解说4_2026-06-18 03:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4u3896s069dq4phqg0000000003jd2qp6m" group-title="世界杯专用 · 4K世界杯多解说直播",解说4_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935?roomid=7652360857878272179
+#EXTINF:-1 tvg-name="解说5_2026-06-18 03:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4uesnn2069dq4phqg0000000003j8p0ie8" group-title="世界杯专用 · 4K世界杯多解说直播",解说5_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935?roomid=7652360857849178379
+#EXTINF:-1 tvg-name="解说6_2026-06-18 03:30:00" tvg-logo="https://xhslive-image.xhscdn.com/gotokuji/104100uo321h4uosbn4069dq4phqg0000000003kve8u8q" group-title="世界杯专用 · 4K世界杯多解说直播",解说6_2026-06-18 03:30:00
+http://82.156.243.185:34567/xhs/4460935?roomid=7652360857878272180
 #EXTINF:-1 tvg-name="加纳VS巴拿马_2026-06-18 06:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190hgmtmu069ip3a5i000000000046gqtmng" group-title="世界杯专用 · 4K世界杯多解说未开播",加纳VS巴拿马_2026-06-18 06:30:00
 http://82.156.243.185:34567/xhs/4460976
 #EXTINF:-1 tvg-name="乌兹别克斯坦VS哥伦比亚_2026-06-18 09:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190hmmoms069ip3a5i000000000046u977pq" group-title="世界杯专用 · 4K世界杯多解说未开播",乌兹别克斯坦VS哥伦比亚_2026-06-18 09:30:00
