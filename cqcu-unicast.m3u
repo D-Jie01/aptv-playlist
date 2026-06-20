@@ -315,12 +315,6 @@ https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/ts-us-e2-
 # ===== 世界杯自动更新开始 =====
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="世界杯专用 · 注意事项",注意事项
 https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u8
-#EXTINF:-1 tvg-name="瑞士 vs 波黑_2026-06-19 02:00:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",瑞士 vs 波黑_2026-06-19 02:00:00
-http://82.156.243.185:52521/live/965451988.flv
-#EXTINF:-1 tvg-name="加拿大 vs 卡塔尔_2026-06-19 05:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",加拿大 vs 卡塔尔_2026-06-19 05:30:00
-http://82.156.243.185:52521/live/965453493.flv
-#EXTINF:-1 tvg-name="墨西哥 vs 韩国_2026-06-19 08:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",墨西哥 vs 韩国_2026-06-19 08:30:00
-http://82.156.243.185:52521/live/965451996.flv
 #EXTINF:-1 tvg-name="美国 vs 澳大利亚_2026-06-20 02:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",美国 vs 澳大利亚_2026-06-20 02:30:00
 http://82.156.243.185:52521/live/965454743.flv
 #EXTINF:-1 tvg-name="苏格兰 vs 摩洛哥_2026-06-20 05:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",苏格兰 vs 摩洛哥_2026-06-20 05:30:00
@@ -339,6 +333,12 @@ http://82.156.243.185:52521/live/965450443.flv
 http://82.156.243.185:52521/live/965452002.flv
 #EXTINF:-1 tvg-name="西班牙 vs 沙特阿拉伯_2026-06-21 23:00:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",西班牙 vs 沙特阿拉伯_2026-06-21 23:00:00
 http://82.156.243.185:52521/live/965452657.flv
+#EXTINF:-1 tvg-name="比利时 vs 伊朗_2026-06-22 02:00:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",比利时 vs 伊朗_2026-06-22 02:00:00
+http://82.156.243.185:52521/live/965448827.flv
+#EXTINF:-1 tvg-name="乌拉圭 vs 佛得角_2026-06-22 05:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",乌拉圭 vs 佛得角_2026-06-22 05:30:00
+http://82.156.243.185:52521/live/965449226.flv
+#EXTINF:-1 tvg-name="新西兰 vs 埃及_2026-06-22 08:30:00" tvg-logo="https://img.cmvideo.cn/publish/nryy-image/output/trans_img/2026/06/09/11005/1467af15ad1d4b33b1b32c3568185360/1467af15ad1d4b33b1b32c3568185360_H169_P1080_JPG.jpg" group-title="世界杯专用 · 4K中文解说世界杯正赛",新西兰 vs 埃及_2026-06-22 08:30:00
+http://82.156.243.185:52521/live/965450093.flv
 #EXTINF:-1 tvg-name="世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d27h70069ip3a5i0000000000440f3dmm" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00
 http://82.156.243.185:34567/xhs/4459820
 #EXTINF:-1 tvg-name="世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d98u74069ip3a5i000000000040ihhf18" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00
@@ -401,14 +401,6 @@ http://82.156.243.185:34567/xhs/4460945
 http://82.156.243.185:34567/xhs/4460911
 #EXTINF:-1 tvg-name="世界杯4K回放-土耳其vs巴拉圭_2026-06-20 10:45:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321fs02h1na06k77ao0jp40000000002h84avk" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-土耳其vs巴拉圭_2026-06-20 10:45:00
 http://82.156.243.185:34567/xhs/4460948
-#EXTINF:-1 tvg-name="Estados Unidos v. Australia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Estados Unidos v. Australia_2026-06-20 02:40:00_1781894400000
-https://cdn.99998888.cc/event/89287318-abcd-3d33-88b9-a509f5fdf662?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Escocia v. Marruecos" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Escocia v. Marruecos_2026-06-20 05:10:00_1781903400000
-https://cdn.99998888.cc/event/65bfb29b-24b0-3510-a1d4-4d99c57a7b04?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Brasil v. Haití" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Brasil v. Haití_2026-06-20 08:10:00_1781914200000
-https://cdn.99998888.cc/event/986603a9-1b2e-3a24-8f4d-acdd996e88ff?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Turquía v. Paraguay" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Turquía v. Paraguay_2026-06-20 10:40:00_1781923200000
-https://cdn.99998888.cc/event/76971d5f-9ee9-3257-aa65-10a1d948ccf3?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Países Bajos v. Suecia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Países Bajos v. Suecia_2026-06-21 00:40:00_1781973600000
 https://cdn.99998888.cc/event/b372410b-9dc9-3a30-bc48-bc82139fc210?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Alemania v. Costa de Marfil" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Alemania v. Costa de Marfil_2026-06-21 03:10:00_1781982600000
@@ -419,4 +411,10 @@ https://cdn.99998888.cc/event/9040ebcf-504f-3a81-bcbf-8f49daa2fa3d?prefix=https:
 https://cdn.99998888.cc/event/58504e96-a4f3-3d56-80df-61f0dccf1e32?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="España v. Arabia Saudí" group-title="世界杯专用 · 4K杜比视界世界杯正赛",España v. Arabia Saudí_2026-06-21 23:40:00_1782056400000
 https://cdn.99998888.cc/event/6230e7ef-5756-3ed1-b4ee-15ce6db3fed8?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Bélgica v. RI de Irán" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Bélgica v. RI de Irán_2026-06-22 02:10:00_1782065400000
+https://cdn.99998888.cc/event/545b8a07-e6dc-3728-b045-70388bba512f?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Uruguay v. Cabo Verde" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Uruguay v. Cabo Verde_2026-06-22 05:10:00_1782076200000
+https://cdn.99998888.cc/event/af54325f-ffde-3554-b2d6-2b82ed3b1aba?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Nueva Zelanda v. Egipto" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Nueva Zelanda v. Egipto_2026-06-22 08:10:00_1782087000000
+https://cdn.99998888.cc/event/e377290e-ee1e-36e8-a47a-07cd40d518ab?prefix=https://cdn.99998888.cc
 # ===== 世界杯自动更新结束 =====
