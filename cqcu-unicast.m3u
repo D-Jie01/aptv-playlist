@@ -455,18 +455,6 @@ http://82.156.243.185:34567/xhs/4460955
 http://82.156.243.185:34567/xhs/4459829
 #EXTINF:-1 tvg-name="世界杯4K回放-巴拉圭vs澳大利亚_2026-06-26 09:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321ni0c8vna06k9rkkojp80000000000e5vmq2" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-巴拉圭vs澳大利亚_2026-06-26 09:30:00
 http://82.156.243.185:34567/xhs/4460949
-#EXTINF:-1 tvg-name="Curazao v. Costa de Marfil" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Curazao v. Costa de Marfil_2026-06-26 03:40:00_1782416400000
-https://cdn.99998888.cc/event/cc92165c-1595-3a5c-9fc7-ee1b87313e63?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Ecuador v. Alemania" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Ecuador v. Alemania_2026-06-26 03:40:00_1782416400000
-https://cdn.99998888.cc/event/661fd635-a455-3970-9c61-784dd813fd57?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Túnez v. Países Bajos" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Túnez v. Países Bajos_2026-06-26 06:10:00_1782425400000
-https://cdn.99998888.cc/event/aa42c525-e546-3728-a7a3-d08dda8ca9aa?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Japón v. Suecia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Japón v. Suecia_2026-06-26 06:10:00_1782425400000
-https://cdn.99998888.cc/event/5571a954-c53f-36a0-a9f6-45c64c528f0a?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Paraguay v. Australia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Paraguay v. Australia_2026-06-26 09:10:00_1782436200000
-https://cdn.99998888.cc/event/fdf9e790-8ae9-3ca1-8117-7a8083f03300?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Turquía v. Estados Unidos" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Turquía v. Estados Unidos_2026-06-26 09:10:00_1782436200000
-https://cdn.99998888.cc/event/be6ad1d0-e595-3258-a6a9-66009c294edc?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Senegal v. Irak" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Senegal v. Irak_2026-06-27 02:40:00_1782499200000
 https://cdn.99998888.cc/event/be151e8c-369c-32c5-84c2-9d6798ce9841?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Noruega v. Francia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Noruega v. Francia_2026-06-27 02:40:00_1782499200000
@@ -475,8 +463,20 @@ https://cdn.99998888.cc/event/11e0c966-2aff-3725-afbb-17f9fcc5f1e5?prefix=https:
 https://cdn.99998888.cc/event/e02fbb11-b2b6-313a-a5f2-4fb68a22cedd?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Uruguay v. España" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Uruguay v. España_2026-06-27 07:10:00_1782515400000
 https://cdn.99998888.cc/event/76522993-4ddc-3e09-928b-66493b724c6a?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Nueva Zelanda v. Bélgica" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Nueva Zelanda v. Bélgica_2026-06-27 10:10:00_1782526200000
-https://cdn.99998888.cc/event/8e5af9f9-75c4-3b4f-95dd-94dfeaafc8fc?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Egipto v. RI de Irán" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Egipto v. RI de Irán_2026-06-27 10:10:00_1782526200000
 https://cdn.99998888.cc/event/4e6b5575-e0cf-340f-8f3e-70ad0f5e0877?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Nueva Zelanda v. Bélgica" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Nueva Zelanda v. Bélgica_2026-06-27 10:10:00_1782526200000
+https://cdn.99998888.cc/event/8e5af9f9-75c4-3b4f-95dd-94dfeaafc8fc?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Panamá v. Inglaterra" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Panamá v. Inglaterra_2026-06-28 04:40:00_1782592800000
+https://cdn.99998888.cc/event/700bf24d-de4d-3498-8cc5-d3c0ce958dc1?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Croacia v. Ghana" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Croacia v. Ghana_2026-06-28 04:40:00_1782592800000
+https://cdn.99998888.cc/event/e597335e-b90f-3068-9f4a-0e90089552b2?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Colombia v. Portugal" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Colombia v. Portugal_2026-06-28 07:10:00_1782601800000
+https://cdn.99998888.cc/event/f2e6feac-eaa5-3c66-b0b0-bac01972f249?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="RD del Congo v. Uzbekistán" group-title="世界杯专用 · 4K杜比视界世界杯正赛",RD del Congo v. Uzbekistán_2026-06-28 07:10:00_1782601800000
+https://cdn.99998888.cc/event/51bcbf42-4f43-3809-9c82-d17aca625413?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Argelia v. Austria" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Argelia v. Austria_2026-06-28 09:40:00_1782610800000
+https://cdn.99998888.cc/event/eb7d7edb-6a10-38c0-927c-d454b8a7e885?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Jordania v. Argentina" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Jordania v. Argentina_2026-06-28 09:40:00_1782610800000
+https://cdn.99998888.cc/event/e4b0d05f-6af6-3da0-b026-c633887703d2?prefix=https://cdn.99998888.cc
 # ===== 世界杯自动更新结束 =====
