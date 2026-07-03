@@ -335,19 +335,19 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="世界杯专用 · AV3A频道",cctv8k-av3a
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
-#EXTINF:-1 tvg-id="直播占位01" tvg-name="占位01" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位01
+#EXTINF:-1 tvg-id="赛事1-主房间" tvg-name="主房间" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",主房间
 http://82.156.243.185:32323/live/1.flv
-#EXTINF:-1 tvg-id="直播占位02" tvg-name="占位02" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位02
+#EXTINF:-1 tvg-id="赛事1-解说1" tvg-name="解说1" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",解说1
 http://82.156.243.185:32323/live/2.flv
-#EXTINF:-1 tvg-id="直播占位03" tvg-name="占位03" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位03
+#EXTINF:-1 tvg-id="赛事1-解说2" tvg-name="解说2" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",解说2
 http://82.156.243.185:32323/live/3.flv
-#EXTINF:-1 tvg-id="直播占位04" tvg-name="占位04" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位04
+#EXTINF:-1 tvg-id="赛事1-解说3" tvg-name="解说3" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",解说3
 http://82.156.243.185:32323/live/4.flv
-#EXTINF:-1 tvg-id="直播占位05" tvg-name="占位05" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位05
+#EXTINF:-1 tvg-id="赛事1-解说4" tvg-name="解说4" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",解说4
 http://82.156.243.185:32323/live/5.flv
-#EXTINF:-1 tvg-id="直播占位06" tvg-name="占位06" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位06
+#EXTINF:-1 tvg-id="赛事1-解说5" tvg-name="解说5" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",解说5
 http://82.156.243.185:32323/live/6.flv
-#EXTINF:-1 tvg-id="直播占位07" tvg-name="占位07" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位07
+#EXTINF:-1 tvg-id="赛事1-解说6" tvg-name="解说6" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",解说6
 http://82.156.243.185:32323/live/7.flv
 #EXTINF:-1 tvg-id="直播占位08" tvg-name="占位08" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位08
 http://82.156.243.185:32323/live/8.flv
