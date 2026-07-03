@@ -335,6 +335,54 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="世界杯专用 · AV3A频道",cctv8k-av3a
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-id="直播占位01" tvg-name="占位01" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位01
+http://82.156.243.185:32323/live/1.flv
+#EXTINF:-1 tvg-id="直播占位02" tvg-name="占位02" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位02
+http://82.156.243.185:32323/live/2.flv
+#EXTINF:-1 tvg-id="直播占位03" tvg-name="占位03" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位03
+http://82.156.243.185:32323/live/3.flv
+#EXTINF:-1 tvg-id="直播占位04" tvg-name="占位04" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位04
+http://82.156.243.185:32323/live/4.flv
+#EXTINF:-1 tvg-id="直播占位05" tvg-name="占位05" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位05
+http://82.156.243.185:32323/live/5.flv
+#EXTINF:-1 tvg-id="直播占位06" tvg-name="占位06" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位06
+http://82.156.243.185:32323/live/6.flv
+#EXTINF:-1 tvg-id="直播占位07" tvg-name="占位07" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位07
+http://82.156.243.185:32323/live/7.flv
+#EXTINF:-1 tvg-id="直播占位08" tvg-name="占位08" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位08
+http://82.156.243.185:32323/live/8.flv
+#EXTINF:-1 tvg-id="直播占位09" tvg-name="占位09" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位09
+http://82.156.243.185:32323/live/9.flv
+#EXTINF:-1 tvg-id="直播占位10" tvg-name="占位10" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位10
+http://82.156.243.185:32323/live/10.flv
+#EXTINF:-1 tvg-id="直播占位11" tvg-name="占位11" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位11
+http://82.156.243.185:32323/live/11.flv
+#EXTINF:-1 tvg-id="直播占位12" tvg-name="占位12" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位12
+http://82.156.243.185:32323/live/12.flv
+#EXTINF:-1 tvg-id="直播占位13" tvg-name="占位13" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位13
+http://82.156.243.185:32323/live/13.flv
+#EXTINF:-1 tvg-id="直播占位14" tvg-name="占位14" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位14
+http://82.156.243.185:32323/live/14.flv
+#EXTINF:-1 tvg-id="直播占位15" tvg-name="占位15" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位15
+http://82.156.243.185:32323/live/15.flv
+#EXTINF:-1 tvg-id="直播占位16" tvg-name="占位16" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位16
+http://82.156.243.185:32323/live/16.flv
+#EXTINF:-1 tvg-id="直播占位17" tvg-name="占位17" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位17
+http://82.156.243.185:32323/live/17.flv
+#EXTINF:-1 tvg-id="直播占位18" tvg-name="占位18" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位18
+http://82.156.243.185:32323/live/18.flv
+#EXTINF:-1 tvg-id="直播占位19" tvg-name="占位19" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位19
+http://82.156.243.185:32323/live/19.flv
+#EXTINF:-1 tvg-id="直播占位20" tvg-name="占位20" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位20
+http://82.156.243.185:32323/live/20.flv
+#EXTINF:-1 tvg-id="直播占位21" tvg-name="占位21" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位21
+http://82.156.243.185:32323/live/21.flv
+#EXTINF:-1 tvg-id="直播占位22" tvg-name="占位22" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位22
+http://82.156.243.185:32323/live/22.flv
+#EXTINF:-1 tvg-id="直播占位23" tvg-name="占位23" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位23
+http://82.156.243.185:32323/live/23.flv
+#EXTINF:-1 tvg-id="直播占位24" tvg-name="占位24" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/WorldCup.png" group-title="世界杯专用 · 4K中文多角度解说",占位24
+http://82.156.243.185:32323/live/24.flv
 #EXTINF:-1 tvg-name="世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d27h70069ip3a5i0000000000440f3dmm" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-开幕式&揭幕战_2026-06-12 01:25:00
 http://82.156.243.185:34567/xhs/4459820
 #EXTINF:-1 tvg-name="世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n032190d98u74069ip3a5i000000000040ihhf18" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-韩国vs捷克_2026-06-12 09:30:00
@@ -501,6 +549,10 @@ http://82.156.243.185:34567/xhs/4459726
 http://82.156.243.185:34567/xhs/4459725
 #EXTINF:-1 tvg-name="世界杯4K回放-西班牙vs奥地利_2026-07-03 02:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321upok067k06k77ao0jp40000000005tu69di" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-西班牙vs奥地利_2026-07-03 02:00:00
 http://82.156.243.185:34567/xhs/4459728
+#EXTINF:-1 tvg-name="世界杯4K回放-葡萄牙vs克罗地亚_2026-07-03 06:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321umlbtkne06k77ao0jp4000000000083aspc" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-葡萄牙vs克罗地亚_2026-07-03 06:00:00
+http://82.156.243.185:34567/xhs/4459727
+#EXTINF:-1 tvg-name="世界杯4K回放-瑞士vs阿尔及利亚_2026-07-03 10:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321uprq747a06k77ao0jp40000000000vtqtjg" group-title="世界杯专用 · 4K世界杯回放",世界杯4K回放-瑞士vs阿尔及利亚_2026-07-03 10:30:00
+http://82.156.243.185:34567/xhs/4459729
 #EXTINF:-1 tvg-name="16vos de Final: España v. Austria" group-title="世界杯专用 · 4K杜比视界世界杯正赛",16vos de Final: España v. Austria_2026-07-03 02:40:00_1783017600000
 https://cdn.99998888.cc/event/10a8d645-3718-3b68-be71-bd877d632fb6?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="16vos de Final: Portugal v. Croacia" group-title="世界杯专用 · 4K杜比视界世界杯正赛",16vos de Final: Portugal v. Croacia_2026-07-03 05:10:00_1783026600000
