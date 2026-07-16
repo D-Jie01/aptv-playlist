@@ -316,9 +316,11 @@ https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/ts-us-e2-
 #EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="世界杯专用 · 注意事项",注意事项
 https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="TSN 4K" tvg-logo="https://cdn.jsdelivr.net/gh/tv-logo/tv-logos/countries/canada/tsn-4k-ca.png" group-title="世界杯专用 · 4K英文解说",TSN 4K
-https://kan.waiguotai.top/p/e755232a-1c0f-4bd6-bfbd-6ff95e78d29e
+https://kan.waiguotai.top/p/9328de0c-13f0-451b-aad5-5b061e44ca08
 #EXTINF:-1 tvg-name="Fox Sports 4K HDR" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fox.png" group-title="世界杯专用 · 4K英文解说",Fox Sports 4K HDR
 https://watch.yingyujieshuo.top/p/10bf977d-8b5c-4b77-abe7-bfdb45057daa
+#EXTINF:-1 tvg-name="BBC UHD HLG" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/BBC_UHD_HLG.png" group-title="世界杯专用 · 4K英文解说",BBC UHD HLG
+https://kan.waiguotai.top/p/e0db5aef-a574-4eb3-9c67-270ba51d4d32
 #EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="世界杯专用 · 4K杜比视界世界杯正赛",FussBall TV
 https://cdn.staticres.top/p/b1ea7ad7-d641-4c00-8b52-185c98fb9190
 #EXTINF:-1 tvg-name="Semifinal: Inglaterra v. Argentina" group-title="世界杯专用 · 4K杜比视界世界杯正赛",Semifinal: Inglaterra v. Argentina_2026-07-16 02:40:00_1784140800000
